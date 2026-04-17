@@ -1,0 +1,2 @@
+Hello {{name}}, welcome to {{city}}!
+You are {{age}} years old.
