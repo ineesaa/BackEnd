@@ -1,0 +1,14 @@
+[
+  {
+    "id": "u_nf3b3",
+    "username": "julia",
+    "passwordHash": "$2b$10$6n5vuK.BDzS9xvBRLxrb.ONLgC4DHqkiZkb7wi1OL/PA1VqvNerI6",
+    "createdAt": "2026-05-21T21:01:36.714Z"
+  },
+  {
+    "id": "u_nr72y",
+    "username": "Julia",
+    "passwordHash": "$2b$10$TZZM1QdefR/W8fdbWUG4qONVpxn180MiTHgwdFfoSKz9ARhiqiLMS",
+    "createdAt": "2026-05-21T21:11:45.176Z"
+  }
+]
